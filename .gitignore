@@ -1,0 +1,23 @@
+*.pptx
+*.pdf
+~$*
+
+# Environment and local data
+.env
+*.env
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# OS/editor
+.DS_Store
+Thumbs.db
